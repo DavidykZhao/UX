@@ -1,0 +1,29 @@
+---
+title: "Application package"
+subtitle: 'For UX researcher position at Facebook'
+author: 'Yikai Zhao'
+date: "(updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+
+class:  middle
+
+
+# Application materials:
+
+#### [Cover letter](Facebok_coverletter.pdf)
+#### [CV](Yikai_CV.pdf) 
+#### [Resume](Yikai_Resume_UX.pdf)
+#### [Visualization project](http://ykzhao.com/Data_product_pipeline/)
+#### [Papers, projects & writings](https://ykzhao.com/)
+ 
+
+
+
